@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../BMAD-METHOD/bmad-core"
+		},
+		{
+			"path": "../VegasPoolCoaches"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	},
+	"extensions": {
+		"recommendations": []
+	}
+}
